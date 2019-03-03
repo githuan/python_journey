@@ -3,7 +3,7 @@
 cars = ['2019 bmw x5', 'McLaren 720S', 'Ferrari 488 GTB', 'Lamborghini', 'Ferrari 812 Superfast', 'Porsche 911', 'Audi R8']
 
 print("I would like to own the following cars:")
-print(cars[0].title())
+print(cars[0].upper())
 print(cars[1])
 print(cars[2])
 print(cars[3])

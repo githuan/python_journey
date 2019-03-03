@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-names = ['jeff como', 'mike sohottsky', 'simon charles', 'john doe', 'rachel smith', 'katie welsch']
+names = ['jeff como', 'mike sohottsky', 'cookie murloc', 'john doe', 'rachel smith', 'katie welsch']
 
 print(names[0].title())
-print("\t" + names[2].title())
+print("\t" + names[1].title())
 print("\t\t" + names[2].title())
 print("\t\t\t" + names[3].title())
 print("\t\t\t\t" + names[4].title())
