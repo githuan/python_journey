@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
 
-#!/usr/bin/env python3
-
 my_foods = ['pizza', 'falafel', 'carrot cake']
 friend_foods = my_foods[:]
 fiance_foods = my_foods[-3:]
