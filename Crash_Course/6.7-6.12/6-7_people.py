@@ -47,7 +47,7 @@ people = [
 for person in people:
     full_name = person['first_name'] + " " + person['last_name']
     location = person['city'] + ", " + person['country']
-    print("\n" + full_name.title() + "'s information"
+    print("\n" + full_name.title() + "'s information" +
           "\n\tAge: " + person['age'].title() +
           "\n\tHeight: " + person['height'].title() +
           "\n\tEye Color: " + person['eye_color'].title() +
